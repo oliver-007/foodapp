@@ -66,7 +66,7 @@ const Menu = [
   },
   {
     id: 9,
-    image: "../images/samosa.jpg",
+    image: "images/samosa.jpg",
     name: "samaso",
     category: "evening",
     price: "10₹",
