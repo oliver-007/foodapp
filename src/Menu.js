@@ -13,7 +13,7 @@ const Menu = [
     image: "images/allupakoida.jpg",
     name: "allu pakoida",
     category: "evening",
-    price: "20₹",
+    price: "20 tk",
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
   },
   {
@@ -21,7 +21,7 @@ const Menu = [
     image: "images/corn.jpg",
     name: "corn",
     category: "breakfast",
-    price: "10₹",
+    price: "10tk",
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
   },
   {
@@ -29,7 +29,7 @@ const Menu = [
     image: "images/chola.jpg",
     name: "chola",
     category: "lunch",
-    price: "50₹",
+    price: "50 tk",
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
   },
   {
@@ -37,7 +37,7 @@ const Menu = [
     image: "images/pizza.jpg",
     name: "pizza",
     category: "evening",
-    price: "80₹",
+    price: "80 tk",
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
   },
   {
@@ -45,7 +45,7 @@ const Menu = [
     image: "images/nonvegthali.jpg",
     name: "Non-Veg Thali",
     category: "dinner",
-    price: "180₹",
+    price: "180 tk",
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
   },
   {
@@ -53,7 +53,7 @@ const Menu = [
     image: "images/sweet.jpg",
     name: "Sweets",
     category: "dinner",
-    price: "60₹",
+    price: "60 tk",
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
   },
   {
@@ -61,7 +61,7 @@ const Menu = [
     image: "images/rajmarice.jpg",
     name: "Rajma Rice",
     category: "lunch",
-    price: "60₹",
+    price: "60 tk",
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
   },
   {
@@ -77,7 +77,7 @@ const Menu = [
     image: "images/samosa.jpg",
     name: "samaso",
     category: "timepass",
-    price: "10₹",
+    price: "10 tk",
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
   },
   {
@@ -85,7 +85,7 @@ const Menu = [
     image: "images/friedrice.jpg",
     name: "fried rice",
     category: "lunch",
-    price: "120tk",
+    price: "120 tk",
     description: "Awesome test if you take this with beaf. ",
   },
 ];
